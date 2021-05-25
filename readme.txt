@@ -15,3 +15,5 @@ task of today create this front end application. 21-05-2021
 
 
 **************************************************************************************
+Adding authentication featurea and check out page for amanzon
+
